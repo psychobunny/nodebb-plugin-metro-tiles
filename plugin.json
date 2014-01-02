@@ -1,0 +1,16 @@
+{
+	"id": "nodebb-plugin-metro-tiles",
+	"name": "NodeBB Metro Tiles",
+	"description": "Inspired by Windows 8 Modern UI - causes the tiles on the homepage to animate and slide up, revealing category description and latest posts.",
+	"url": "https://github.com/psychobunny/nodebb-plugin-static-page",
+	"library": "./library.js",
+	"hooks": [
+		{
+			"hook": "filter:server.create_routes", "method": "addRoute", "callbacked": true
+		}
+	],
+	"staticDir": "./static",
+	"css": [
+		"css/style.css"
+	]
+}

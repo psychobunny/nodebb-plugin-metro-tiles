@@ -1,0 +1,31 @@
+{
+  "name": "nodebb-plugin-metro-tiles",
+  "version": "0.0.1",
+  "description": "Inspired by Windows 8 Modern UI - causes the tiles on the homepage to animate and slide up, revealing category description and latest posts.",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psychobunny/nodebb-plugin-metro-tiles"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "category",
+    "modern",
+    "metro"
+  ],
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-plugin-metro-tiles/issues"
+  },
+  "readmeFilename": "README.md",
+  "_id": "nodebb-plugin-metro-tiles@0.0.1",
+  "_from": "nodebb-plugin-metro-tiles@~0.0.1"
+}
