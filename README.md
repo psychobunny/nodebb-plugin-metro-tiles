@@ -6,6 +6,10 @@ This NodeBB plugin was inspired by the Windows 8 Modern UI start screen. It caus
 
 ![NodeBB Metro Tiles](http://i.imgur.com/wele799.png)
 
+## Installation
+
+    npm install nodebb-plugin-metro-tiles
+
 ## Credits
 
 Credits goes to @barisusakli who originally wrote this into the vanilla theme of NodeBB.
