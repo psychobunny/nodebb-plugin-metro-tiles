@@ -1,5 +1,5 @@
 <!-- BEGIN categories -->
-<div class="col-md-3 col-xs-6 category-block">
+<div class="{categories.class} category-block">
 	<a href="category/{categories.slug}" itemprop="url">
 		<meta itemprop="name" content="{categories.name}">
 		<h4><span class="badge {categories.badgeclass}">{categories.topic_count} </span></h4>
