@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-metro-tiles",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Inspired by Windows 8 Modern UI - causes the tiles on the homepage to animate and slide up, revealing category description and latest posts.",
   "main": "library.js",
   "scripts": {
